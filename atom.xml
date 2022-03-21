@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://22510.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-03-21T07:18:08.059Z</updated>
+    <title>佛耶戈的狗窝</title>
+    <updated>2022-03-21T07:31:18.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://22510.github.io"/>
     <link rel="self" href="https://22510.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>痛，太痛了</subtitle>
     <logo>https://22510.github.io/images/avatar.png</logo>
     <icon>https://22510.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, 佛耶戈的狗窝</rights>
     <entry>
         <title type="html"><![CDATA[玉贤臭宝]]></title>
         <id>https://22510.github.io/post/yu-xian-chou-bao/</id>
