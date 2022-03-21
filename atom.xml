@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://22510.github.io</id>
     <title>Gridea</title>
-    <updated>2022-03-21T07:06:39.232Z</updated>
+    <updated>2022-03-21T07:18:08.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://22510.github.io"/>
     <link rel="self" href="https://22510.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://22510.github.io/images/avatar.png</logo>
     <icon>https://22510.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[玉贤臭宝]]></title>
+        <id>https://22510.github.io/post/yu-xian-chou-bao/</id>
+        <link href="https://22510.github.io/post/yu-xian-chou-bao/">
+        </link>
+        <updated>2022-03-21T07:10:54.000Z</updated>
+        <content type="html"><![CDATA[<p>嘿嘿<br>
+<img src="https://22510.github.io/post-images/1647846671145.gif" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
         <id>https://22510.github.io/post/hello-world/</id>
